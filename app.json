@@ -1,15 +1,15 @@
 {
-    "name": "Queen Angella",
-    "description": "Queen Angella - Whatsapp Bot",
+    "name": "🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐",
+    "description": "🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ - Whatsapp Bot",
     "logo": "https://i.imgur.com/wvTMw09.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/zim-bot/queen-angella",
-    "website":   "https://t.me/phaticusthiccy",
+    "repository": "https://github.com/ajeet-akshata/Ajeet-Akshata",
+    "website":   "https://instagram.com/editz_boy_ajeet?utm_medium=copy_link",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "ZIM_CODE": {
-            "description": "Asena session changed! Type your Angella code here.",
+            "description": "Asena session changed! Type your 🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ code here.",
             "required": true
         },
         "SUDO": {
@@ -126,7 +126,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Queen Angella Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -181,7 +181,7 @@
         "GAN_IMAGE": {
             "description": " Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.imgur.com/wvTMw09.jpg"
+            "value": "https://imgur.com/gallery/CInVBQq"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
