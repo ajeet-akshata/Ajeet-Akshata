@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Angella working!')
+            chalk.green.bold('✅ 🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Angella Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ Started*', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Angella Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ Started*', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Angella Started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ Started*', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Angella Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ Started*', MessageType.text);
                 }
             }
         }
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *ANGELLA ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g \n Report errors\njoin with +263 \n https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCRJMD8hfOU4RWhgEe-vojXQ \n Report errors\njoin with +263 \n https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A``` ' 
                                     , MessageType.text);
                             }
                         }
