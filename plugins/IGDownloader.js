@@ -1,4 +1,4 @@
-/*codded by Drips Memes ©️Zim-bot 2022
+/*codded by 🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎࿐ ©️ Ajeet-Akshata 2022
 */
 
 const Asena = require('../events');
